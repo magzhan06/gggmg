@@ -1,0 +1,43 @@
+#header_img{
+    width: 1920px;
+    height: 740px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(0deg, rgba(64, 65, 73, 0.9), rgba(64, 65, 73, 0.9)), url(maxresdefault.jpg), #404149;
+}
+#header_logo{
+    position: absolute;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 405px;
+}
+#header_menu{
+    position: absolute;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 1465px;
+}
+#project_img{
+    width: 350px;
+    height: 380px;
+    background: url(image.png);
+}
+#request_button_img{
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    margin: 14px 0px 14px 30px;
+}
+#services_svg{
+    margin: 39px 0px 0px 127px;
+}
+#portfolio_img{
+    position: absolute;
+    width: 480px;
+    height: 407px;
+    background: url(Bez-imeni-1-665.jpg);
+}
+#partners_svg{
+    position: absolute;
+    margin-top: 182px;
+}
